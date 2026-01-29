@@ -7,5 +7,5 @@ int main(){
 	cin >> a ;
 	cout << "Value of c is:"<<a;
 	return 0;
-}
+} 
 
